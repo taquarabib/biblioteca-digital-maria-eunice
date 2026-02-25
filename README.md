@@ -28,9 +28,7 @@ O repositório está organizado nas seguintes pastas:
 /obras-publicadas
 /documentos-manuscritos
 /fotografias
-/metadados
 /documentacao-tecnica
-/relatorios
 ```
 
 Cada item digital contém informações descritivas, técnicas e contextuais para assegurar correta identificação e recuperação.
